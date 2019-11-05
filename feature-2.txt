@@ -1,1 +1,2 @@
 this is the feature 2 file
+THIS is feature 3
